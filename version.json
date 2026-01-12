@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/SKYRVANA/upload_util_release_package/releases/download/v1.0.0/SD_Card_Upload_Utility_v1.0.0_macOS.dmg",
+  "release_notes": "Initial release with core features: Supabase authentication, multi-drive upload, progress tracking, pause/resume/cancel controls, real-time speed monitoring, and auto-update system."
+}
